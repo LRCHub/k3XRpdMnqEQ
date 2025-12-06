@@ -1,56 +1,29 @@
-# Carrie Underwood – Pink Champagne
+# Marty Robbins – A White Sport Coat (& a Pink Carnation)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:09.61] Adrenaline rising
-[00:11.75] Ain't feeling no pain
-[00:13.82] I'm floating and flying
-[00:15.27] The room is spinning, making me sway
-[00:17.12] And I ain't even had to go
-[00:19.45] And open up a bottle of wine tonight
-[00:37.45] 
-[00:26.89] I can go on a bender
-[00:28.93] Anytime that I please
-[00:31.20] Don't need a bartender pouring, over-serving me
-[00:34.85] I can get intoxicated on you, baby, anytime
-[00:40.77] 'Cause you're mine
-[00:49.77] 
-[00:42.82] There ain't no last call, counting down on the clock
-[00:47.19] I can have all I want, don't be cutting me off
-[00:51.48] 'Cause too much of your good love ain't a bad thing (woo, hmm)
-[01:00.20] And your kiss got me wishing I could bottle it up
-[01:04.72] Every sip to my lips is a sweet sugar rush
-[01:09.00] 'Cause your love gets me more buzzed than pink champagne
-[01:16.42] Ooh-ooh-ooh-ooh, yeah
-[01:26.92] 
-[01:19.30] I still like my Rosé
-[01:21.36] Boy, don't get me wrong
-[01:23.83] But you're what I reach for when I'm wanting something strong
-[01:27.34] Never hungover, but I can't stay sober with you
-[01:32.95] And I don't want to
-[01:42.45] 
-[01:35.10] There ain't no last call, counting down on the clock (down on the)
-[01:39.42] (Clock) I can have all I want, don't be cutting me off
-[01:44.04] 'Cause too much of your good love ain't a bad thing (oh, oh-oh-oh, oh)
-[01:52.41] And your kiss got me wishing I could bottle it up
-[01:56.75] Every sip to my lips is a sweet sugar rush
-[02:01.12] 'Cause your love gets me more buzzed than pink champagne
-[02:07.87] Yea-eah-eah-eah-eah, yeah
-[02:20.37] 
-[02:10.72] One more round of you won't hurt me
-[02:15.33] I need you right now in a hurry
-[02:18.83] 'Cause your love (baby) gets me more buzzed than pink champagne
-[02:24.54] Got me addicted, don't wanna fix it
-[02:42.04] 
-[02:27.51] There ain't no last call, counting down on the clock (counting down)
-[02:31.75] (On the clock) I can have all I want, don't be cutting me off
-[02:36.08] 'Cause too much of your good love ain't a bad thing (oh, oh-oh-oh, oh)
-[02:45.00] And your kiss got me wishing I could bottle it up (oh, I could)
-[02:49.38] (Bottle it up) every sip to my lips is a sweet sugar rush
-[02:53.88] 'Cause your love gets me more buzzed than pink champagne
-[03:21.88] 
-[03:02.25] Oh, oh-oh, oh, one more round of you won't hurt me
-[03:07.34] I need you right now in a hurry
-[03:11.20] 'Cause your love (baby) gets me more buzzed than pink champagne
+[00:07.18] A white sports coat and a pink carnation
+[00:17.15] I'm all dressed up for the dance
+[00:24.33] A white sports coat and a pink carnation
+[00:34.27] I'm all alone in romance
+[00:46.27] 
+[00:42.37] Once you told me long ago
+[00:46.85] To the prom with me you'd go
+[00:49.56] Now you've changed your mind, it seems
+[00:54.16] Someone else will hold my dreams
+[01:10.16] 
+[00:58.65] A white sports coat and a pink carnation
+[01:07.66] I'm in a blue, blue mood
+[01:19.66] 
+[01:23.82] I'm all dressed up for the dance
+[01:40.99] I'm all alone in romance
+[01:52.99] 
+[01:49.03] Once you told me long ago
+[01:53.55] To the prom with me you'd go
+[01:57.14] Now you've changed your mind it seems
+[02:00.78] Someone else will hold my dreams
+[02:16.78] 
+[02:04.33] A white sports coat and a pink carnation
+[02:13.63] I'm in a blue, blue mood
 ```
