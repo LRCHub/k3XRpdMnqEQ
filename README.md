@@ -1,29 +1,56 @@
-# Marty Robbins – A White Sport Coat (& a Pink Carnation)
+# shytaupe – pink
 
-> **歌詞登録ステータス：同期歌詞あり**
+> **歌詞登録ステータス：プレーン歌詞のみ**
 
-```lrc
-[00:07.18] A white sports coat and a pink carnation
-[00:17.15] I'm all dressed up for the dance
-[00:24.33] A white sports coat and a pink carnation
-[00:34.27] I'm all alone in romance
-[00:46.27] 
-[00:42.37] Once you told me long ago
-[00:46.85] To the prom with me you'd go
-[00:49.56] Now you've changed your mind, it seems
-[00:54.16] Someone else will hold my dreams
-[01:10.16] 
-[00:58.65] A white sports coat and a pink carnation
-[01:07.66] I'm in a blue, blue mood
-[01:19.66] 
-[01:23.82] I'm all dressed up for the dance
-[01:40.99] I'm all alone in romance
-[01:52.99] 
-[01:49.03] Once you told me long ago
-[01:53.55] To the prom with me you'd go
-[01:57.14] Now you've changed your mind it seems
-[02:00.78] Someone else will hold my dreams
-[02:16.78] 
-[02:04.33] A white sports coat and a pink carnation
-[02:13.63] I'm in a blue, blue mood
+```
+音もなく耳を閉ざすイヤフォンから
+ただ聴く曲もないまま
+立ち尽くしてた
+あのビルのルーフトップを
+ぼんやりと見つめ
+もうどうでもいいなと
+笑ってしまった
+明日のあなたにもう
+期待はしていないし
+明日の私にも期待はし
+ていないの
+もうすぐ夜は昨日を忘れるように
+もうすぐ私はあなたを忘れる
+運命だって思ってたけど
+よく似た別のものだったみたいね
+嫌わないで私だけ見ていて
+何を言っても言い足りないくらいよ
+泣かせないでひとりにさせないで
+優しさを脱ぎ捨てないで
+滞りなく進むふたりなんて
+この世界にいるはずはないのだから
+少し言い過ぎたことを
+謝りたくなってでも
+謝りたくもなくて
+道草をする
+明日のあなたをまだ愛せるのなら
+明日の私もまだ愛せるはずだから
+記憶の中で笑う可愛いあなたを
+手繰り寄せて抱きしめたくなった
+最低だって思ってたけど
+よく似た別の人だったみたいね
+夜空は闇を出し絞って
+私は慣れないパーセンテージで
+酔って
+戻って行く あなたの元へと
+嫌わないで私だけ見ていて
+何を言っても言い足りないくらいよ
+泣かせないでひとりにさせないで
+優しさを脱ぎ捨ててしまわないで
+傷をつけて 傷をつけられても
+私はあなたと居たいと思った
+変わらないで知らないふりだって
+するから
+私はあなたに
+あなたに会いたいと思った
+音もなく耳を閉ざすイヤフォンから
+ただ聴く曲もないまま
+立ち尽くしてた
+たった今見上げた朝方の空は
+とても綺麗なピンク色をしていた
 ```
